@@ -1,0 +1,15 @@
+body {
+    background-color: #222831;
+    color:#f2f2f2; 
+}
+
+h1{
+    text-align: center;
+}
+
+#titlebox{
+    background-color: #393e46; 
+    padding: 3%;
+    margin: 20%;
+    border-radius: 35px;
+}
